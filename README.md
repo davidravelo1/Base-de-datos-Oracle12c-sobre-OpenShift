@@ -21,10 +21,12 @@ Una vez iniciado, se agrega un repositorio de oracle (https://maximilianopizarro
 luego de esto, se instancia con helm install. 
 
 ```helm install my-oracle12c oracle-helm-charts/oracle12c --version 0.1.0```
-<div align="center"><img width="800" src="img/Instancia.png"></div>
+<div align="center"><img width="500" src="img/Instancia.png"></div>
 
 ## Ejecutrar un test de conexion con sqlplus 
 Buscar el nombre del pod donde corre Oracle12c
+<div align="center"><img width="500" src="img/Pod.png"></div>
+
 
 
 
