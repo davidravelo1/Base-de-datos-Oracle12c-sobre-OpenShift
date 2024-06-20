@@ -29,7 +29,7 @@ Buscar el nombre del pod donde corre Oracle12c.
 <div align="center"><img width="500" src="img/Pod.png"></div>
 <br/>
 Dentro, buscamos el nombre del pod.
-<div align="center"><img width="500" src="img/name.png"></div>
+<div align="center"><img width="700" src="img/name.png"></div>
 <br/>
 Teniendo este nombre, ingresamos al pod desde la consola de OpenShift.
 
