@@ -6,5 +6,7 @@ Esta es una guia de instalación de una instancia de base de datos Oracle12c sob
 3. [Despliegue aplicación de NextJs en OpenShift](#despliegue_aplicacion_de_nextjs_en_openshift)
 ## 1. Abrir consola de OpenShift 
 En la parte superior derecha abrir el copy login command. 
-<div align="center"><img width="800" src="Oracle en openshift/Copy.png"></div>
+<div align="center"><img width="800" src="img/Copy.png"></div>
+Luego, en  la consola de IMB Cloud Shell ingrese el token obtenido para iniciar sesión en su cluster 
+<div align="center"><img width="800" src="img/Cloud.png"></div>
 
