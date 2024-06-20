@@ -27,8 +27,9 @@ luego de esto, se instancia con helm install.
 Buscar el nombre del pod donde corre Oracle12c
 <div align="center"><img width="500" src="img/Pod.png"></div>
 Teniendo este nombre, ingresamos al pod desde la consola de OpenShift 
+<div align="center"><img width="500" src="img/name.png"></div>
+<div align="center">```oc rsh nombre_pod```</div>
 
-```oc rsh nombre_pod```
 
 
 
