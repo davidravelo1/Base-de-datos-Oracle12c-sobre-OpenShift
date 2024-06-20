@@ -7,7 +7,7 @@ Esta es una guia de instalación de una instancia de base de datos Oracle12c sob
 2. [Agregar repositorio e instalar oracle12c](#Agregar-repositorio-e-instalar-oracle12c)
 3. [Ejecutar un test de conexion con sqlplus](#Ejecutrar-un-test-de-conexion-con-sqlplus)
 
-# Abrir-consola-de-OpenShift 
+## Abrir-consola-de-OpenShift 
 En la parte superior derecha abrir el copy login command. 
 <div align="center"><img width="600" src="img/Copy.png"></div>
 Luego, en  la consola de IMB Cloud Shell ingrese el token obtenido para iniciar sesión en su cluster. 
