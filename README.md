@@ -1,7 +1,7 @@
 # Base-de-datos-Oracle12c-sobre-OpenShift
 Esta es una guia de instalación de una instancia de base de datos Oracle12c sobre Red Hat OpenShift haciendo uso de Helm Chart.
 ## Contenido
-1. [texto a mostrar](#mi-titulo-a-anclar)
+1. [texto a mostrar](#abrir consola de Openshift)
 3. [Despliegue aplicación de NextJs en OpenShift](#despliegue_aplicacion_de_nextjs_en_openshift)
 ## Abrir consola de OpenShift 
 En la parte superior derecha abrir el copy login command. 
