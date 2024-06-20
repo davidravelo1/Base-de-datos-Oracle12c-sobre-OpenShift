@@ -16,7 +16,7 @@ Luego, en  la consola de IMB Cloud Shell ingrese el token obtenido para iniciar 
 <br/>
 Una vez iniciado, se agrega un repositorio de oracle (https://maximilianopizarro.github.io/oracle-helm-charts/) con el siguiente comando:
 
-```helm repo add oracle-helm-charts https://maximilianopizarro.github.io/oracle-helm-charts/```
+<div align="center">```helm repo add oracle-helm-charts https://maximilianopizarro.github.io/oracle-helm-charts/```</div>
 
 luego de esto, se instancia con helm install:
 
