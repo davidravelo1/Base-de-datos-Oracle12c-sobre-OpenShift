@@ -16,7 +16,7 @@ Luego, en  la consola de IMB Cloud Shell ingrese el token obtenido para iniciar 
 <br/>
 Una vez iniciado, se agrega un repositorio de oracle (https://maximilianopizarro.github.io/oracle-helm-charts/) con el siguiente comando:
 
-<div align="center">```helm repo add oracle-helm-charts https://maximilianopizarro.github.io/oracle-helm-charts/```</div>
+```helm repo add oracle-helm-charts https://maximilianopizarro.github.io/oracle-helm-charts/```
 
 luego de esto, se instancia con helm install:
 
@@ -32,9 +32,10 @@ Dentro, buscamos el nombre del pod.
 <br/>
 Teniendo este nombre, ingresamos al pod desde la consola de OpenShift.
 
-<div align="center">```oc rsh nombre_pod```</div>
+```oc rsh nombre_pod```
+
 <br/>
-Probamos la conexión a la base de datos con el comando ```sqlplus``` dandonos una respuesta como la siguiente: 
+Probamos la conexión a la base de datos con el comando *sqlplus* dandonos una respuesta como la siguiente: 
 <div align="center"><img width="500" src="img/sqlplus.png"></div>
 
 
