@@ -18,4 +18,7 @@ Una vez iniciado, se agrega un repositorio de oracle (https://maximilianopizarro
 
 ```helm repo add oracle-helm-charts https://maximilianopizarro.github.io/oracle-helm-charts/```
 
+luego de esto, se instancia con helm install. 
+
+```helm install my-oracle12c oracle-helm-charts/oracle12c --version 0.1.0```
 
