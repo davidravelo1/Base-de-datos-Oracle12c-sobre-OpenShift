@@ -14,6 +14,8 @@ Luego, en  la consola de IMB Cloud Shell ingrese el token obtenido para iniciar 
 
 ## Agregar repositorio e instalar oracle12c
 <br/>
-Una vez iniciado, se agrega el repositorio con el siguiente comando `helm repo add oracle-helm-charts https://maximilianopizarro.github.io/oracle-helm-charts/`
+Una vez iniciado, se agrega el repositorio con el siguiente comando 
+
+```helm repo add oracle-helm-charts https://maximilianopizarro.github.io/oracle-helm-charts/```
 
 
