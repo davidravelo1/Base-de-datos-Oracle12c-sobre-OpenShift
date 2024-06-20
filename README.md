@@ -31,6 +31,7 @@ Dentro, buscamos el nombre del pod.
 <div align="center"><img width="500" src="img/name.png"></div>
 <br/>
 Teniendo este nombre, ingresamos al pod desde la consola de OpenShift.
+
 <div align="center">```oc rsh nombre_pod```</div>
 <br/>
 Probamos la conexión a la base de datos con el comando ```sqlplus``` dandonos una respuesta como la siguiente: 
